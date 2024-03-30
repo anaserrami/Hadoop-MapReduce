@@ -189,7 +189,7 @@ public class JobReducer extends Reducer<Text, DoubleWritable, Text, DoubleWritab
 
 ![List de test](assets/img1.png)
 
-5. Execution (Avec l'année 2023 comme paramètre)
+5. Execution (Avec l'année 2024 comme paramètre)
 
 ```
 hadoop jar tp2_hdfs-1.0-SNAPSHOT.jar com.errami.ex1.job2.Driver /TP2-HADOOP/ventes.txt /TP2-HADOOP/ex1_job2_output 2024
